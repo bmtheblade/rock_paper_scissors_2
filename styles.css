@@ -1,0 +1,17 @@
+/* body {
+  display: flex;
+  justify-content: center;
+} */
+
+h1 {
+  display: flex;
+  /* border: solid red; */
+  justify-content: center;
+  font-size: 100px;
+}
+
+div {
+  display: flex;
+  /* border: solid red; */
+  justify-content: center;
+}
